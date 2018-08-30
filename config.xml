@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.frappe.accounting" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="info.fr3on.accounting" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Mobile Accounting</name>
     <description>An Accounting app.</description>
     <author email="hello@erpnext.com" href="https://erpnext.com">Frappe Technologies Private Limited</author>
