@@ -9,7 +9,7 @@ import Observable from 'frappejs/utils/observable';
 import fetch from 'node-fetch';
 
 // Enter your ip:8000 here
-let server = 'localhost:8000';
+let server = 'demo.fr3on.info';
 
 export default async function initFrappe(serv) {
 	if(serv) {
