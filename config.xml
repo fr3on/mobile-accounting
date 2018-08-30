@@ -2,7 +2,7 @@
 <widget id="info.fr3on.accounting" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Mobile Accounting</name>
     <description>An Accounting app.</description>
-    <author email="hello@erpnext.com" href="https://erpnext.com">Frappe Technologies Private Limited</author>
+    <author email="hello@fr3on.info" href="https://fr3on.info">Fr3on Technologies Private Limited</author>
     <content original-src="index.html"/>
     <access origin="*" />
     <allow-intent href="http://*/*" />
